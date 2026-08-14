@@ -15,7 +15,7 @@
 
 <p align="center"> ${\textsf{\color{#833B95} Follow my sweetie guys! }}$
 
-<p align="center"> <a href="https://github.com/DarkSci-Facility">My crazyblox</a> ${\textsf{\color{#FAFBFF} 𓊈𓏵𓊉 }}$ <a href="https://github.com/smooth-duo">My nicholasdev</a> ${\textsf{\color{#C9BAFF} 𓊈𓏵𓊉 }}$ <a href="https://github.com/5poke">My navola</a> ${\textsf{\color{#00A7C5} 𓊈𓏵𓊉 }}$ <a href="https://github.com/realciruzz">My inky</a> ${\textsf{\color{#833B95} 𓊈𓏵𓊉 }}$
+<p align="center"> <a href="https://github.com/DarkSci-Facility">My crazyblox</a> ${\textsf{\color{#FAFBFF} 𓊈𓏵𓊉 }}$ <a href="https://github.com/SKEETY-LULZ">My nicholasdev</a> ${\textsf{\color{#C9BAFF} 𓊈𓏵𓊉 }}$ <a href="https://github.com/fieldofsunflowers">My navola</a> ${\textsf{\color{#00A7C5} 𓊈𓏵𓊉 }}$ <a href="https://github.com/princez4m">My inky</a> ${\textsf{\color{#833B95} 𓊈𓏵𓊉 }}$
 
 <img width="100%" height="696" alt="image" src="https://github.com/user-attachments/assets/e8e2b6fe-490a-406a-91ca-9b4513a9c001" />
 
